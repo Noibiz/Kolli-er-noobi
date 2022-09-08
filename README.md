@@ -1,2 +1,2 @@
-# Kolli-er-noobi
+# Kolli
 HTML, CSS, javaScript
